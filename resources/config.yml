@@ -1,0 +1,17 @@
+# Allow players to make transactions if the person is offline
+allow-pay-player-offline: "false"
+
+# Set up the default maximum available currency for your server
+max-money: 999999999
+
+# Set the default currency unit for your server
+monetary-unit: "$"
+
+# Set the default currency when a new profile is created
+default-money: 1000
+
+# Set the default language for your plugin ( eng | esp | fr | it | nl | ru | du )
+default-lang: "eng"
+
+# Set the server prefix
+prefix: "§e[§bEconomyAPI§e]§r "

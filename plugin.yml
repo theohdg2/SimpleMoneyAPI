@@ -1,0 +1,7 @@
+name: SimpleMoneyAPI
+version: 1.0.1
+authors:
+  - theohdg2
+  - Achedon12
+api: 4.0.0
+main: SimpleMoney\theohdg2\SimpleMoney
